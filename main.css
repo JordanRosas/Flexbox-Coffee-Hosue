@@ -1,0 +1,15 @@
+.pageHeader{
+    text-align: center;
+}
+
+.list{
+    display:flex;
+    flex-wrap:wrap;
+    align-content: flex-start;
+    justify-content:space-evenly;
+}
+.shop{
+    align-content: stretch;;
+    width:30%;
+    border:1px dashed black;
+}
